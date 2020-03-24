@@ -1,0 +1,15 @@
+[Desktop Entry]
+Name=词霸
+Comment=Python runner
+X-KDE-ServiceTypes=Plasma/Runner
+Type=Service
+Icon=planetkde
+X-KDE-PluginInfo-Author=Some Developer
+X-KDE-PluginInfo-Email=kde@example.com
+X-KDE-PluginInfo-Name=Dict
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=LGPL
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=DBus
+X-Plasma-DBusRunner-Service=net.Dict2
+X-Plasma-DBusRunner-Path=/Dict
